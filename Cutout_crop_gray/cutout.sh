@@ -1,0 +1,1 @@
+python /root/volume/MidProject/Cutout/train.py
